@@ -1,0 +1,11 @@
+opencv-python
+pygame
+requests
+numpy
+face_recognition
+pywhatkit
+SpeechRecognition
+gtts
+Pillow
+googletrans==3.1.0a0
+wolframalpha

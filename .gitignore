@@ -1,0 +1,7 @@
+credentials.json
+info.txt
+llm_api.py
+__pycache__/
+*.mp3
+*.pyc
+voice*.mp3
